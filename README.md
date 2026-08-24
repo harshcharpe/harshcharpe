@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Harsh%20Charpe&fontSize=70&fontAlignY=35&desc=Turning%20Code%20into%20Impact&descAlignY=55&descSize=20&fontColor=0078D4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Harsh%20Charpe&fontSize=70&fontAlignY=35&desc=Turning%20Code%20into%20Impact&descAlignY=55&descSize=20&fontColor=fffff" />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Harsh Charpe</h1>
