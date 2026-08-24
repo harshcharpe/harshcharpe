@@ -1,91 +1,89 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=220&section=header&text=Harsh%20Charpe&fontSize=55&fontColor=ffffff&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=68" alt="Harsh Charpe Banner" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Harsh%20Charpe&fontSize=70&fontAlignY=35&desc=Turning%20Code%20into%20Impact&descAlignY=55&descSize=20&fontColor=ffffff" />
+</div>
 
-<!-- Centered Greeting -->
 <h1 align="center">Hi there! 👋 I'm Harsh Charpe</h1>
 
----
-
-<!-- Bio & Subtitle -->
 <p align="center">
-  <em>An <strong>AI/ML undergraduate</strong> passionate about applying Machine Learning concepts, strong <strong>DSA foundations</strong>, and full-stack software development to build real-world, high-impact solutions.</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Python+%26+Java+Developer;Problem+Solver+%7C+DSA;B.Tech+AI+%26+ML+Student" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Social & Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:harshcharpe010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+  <em>An <strong>AI/ML undergraduate</strong> with hands-on experience and a strong foundation in programming and Data Structures & Algorithms. Passionate about applying machine learning concepts and software development skills to solve real-world problems. <strong>I build things, not just copy them.</strong></em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:harshcharpe010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-
-* 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (AI & ML) at **SISTec-R, Bhopal** (2024–2028).
-* 💡 **Core Interests:** Machine Learning models, Data Structures & Algorithms, and Intelligent Web Applications.
-* 🛠️ **Current Focus:** Route optimization models, agricultural prediction systems, and scalable full-stack architectures.
-* 📍 **Location:** Bhopal, Madhya Pradesh, India.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <strong>Languages:</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p align="left">
-  <strong>AI, ML & Core Concepts:</strong><br/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4B8BBE?style=flat-square" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-008080?style=flat-square" alt="Data Analytics"/>
-</p>
-
-<p align="left">
-  <strong>Tools & Platforms:</strong><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
+- 🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML) at **Sagar Institute of Science Technology and Research (SISTEC-R), Bhopal** (2024 – 2028).
+- 💡 Passionate about machine learning concepts, Data Structures & Algorithms, and full-stack software development.
+- 👨‍💻 Currently heavily focused on **Machine Learning Models, Python, Java, and Web Technologies**.
+- 📍 Based in **Bhopal, Madhya Pradesh**.
+- 🌟 **My Motto:** Stop wasting time. Start building.
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Projects (Built From Scratch)
 
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **🌾 AI Farming Assistant** | Machine Learning, Web Tech | Crop recommendations, disease detection, and weather analytics for precision agriculture. |
-| **♻️ Smart Waste Management System** | ML, Data Analytics | Route optimization algorithms for collection efficiency and data-driven waste pattern analysis. |
-| **🎓 Alumni Connect Platform** | Full-Stack Web | Responsive network management platform with dynamic event tracking and UI navigation. |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI Farming Assistant** | AI-powered farming assistant providing crop recommendations, disease detection, weather insights, and smart farming guidance using ML models. | Machine Learning, Web Technologies, Python |
+| **Smart Waste Management System** | Intelligent system for monitoring and optimizing waste collection routes, analyzing generation patterns via a centralized dashboard. | Machine Learning, Data Analysis, Python |
+| **Alumni Connect Platform** | Responsive platform to seamlessly connect alumni and manage community events with an interactive UI. | Web Technologies, HTML/CSS, JavaScript |
 
 ---
 
-### 🎖️ Competitions & Achievements
-
-* 🥇 **1st Position:** Python Premier League (Team Event) — *Organized by SISTec-R*
-* 🚀 **Hackathons:**
-  * Oriental TechHack 2.0 (Prototype Participant)
-  * SISTec Innovation Hackathon 2.0
-  * BGI Hackathon
+### 🎖️ Achievements & Hackathons
+- 🥇 **1st Position:** Python Premier League (team event) organized by SISTEC-R.
+- 🚀 **Participant:** Sistec Innovation Hackathon 2.0
+- 🚀 **Participant:** BGI Hackathon
+- 🚀 **Participant:** Oriental TeckHack 2.0
 
 ---
 
 ### 📜 Certifications
+- **CISCO:** Introduction to Modern AI
+- **CISCO:** Data Analytics Essentials
+- **CISCO:** Apply AI: Analyze Customer Reviews
+- **NSDC:** Domestic Data Entry Operator
 
-* **CISCO:** Introduction to Modern AI
-* **CISCO:** Data Analytics Essentials
-* **CISCO:** Applied AI: Analyze Customer Reviews
-* **NSDC:** Domestic Data Entry Operator
+---
+
+### 💻 Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Harsh's GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>"Talk is cheap. Show me the code." - Linus Torvalds</em>
+</p>
