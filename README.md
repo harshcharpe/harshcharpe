@@ -85,5 +85,5 @@
 </p>
 
 <p align="center">
-  <em>"Talk is cheap. Show me the code." - Linus Torvalds</em>
+  <em>
 </p>
