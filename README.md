@@ -70,20 +70,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshcharpe &show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshcharpe &theme=tokyonight&hide_border=true&background=0D1117" alt="Harsh's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshcharpe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshcharpe&theme=tokyonight&hide_border=true&background=0D1117" alt="Harsh's GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshcharpe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshcharpe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshcharpe&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <em>
 </p>
